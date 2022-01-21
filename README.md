@@ -10,8 +10,8 @@
 ### Тетрадки к лекциям и записи лекций
 
 [Лекция 2022.01.18](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220118_numpy.ipynb) - Numpy  
-
 [Лекция 2022.01.18](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220118_Pandas.ipynb) - Pandas  
+Видео с лекции - [часть 1](https://youtu.be/dnwcqijsxSk), [часть 2](https://youtu.be/Pis8cLnXYpc).
 
 
 
