@@ -11,7 +11,9 @@
 
 [Лекция 2022.01.18](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220118_numpy.ipynb) - Numpy  
 [Лекция 2022.01.18](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220118_Pandas.ipynb) - Pandas  
-Видео с лекции - [часть 1](https://youtu.be/dnwcqijsxSk), [часть 2](https://youtu.be/Pis8cLnXYpc).
+Видео с лекции-1 - [часть 1](https://youtu.be/dnwcqijsxSk), [часть 2](https://youtu.be/Pis8cLnXYpc).  
+Видео с лекции-2 - [часть 3](https://youtu.be/8Cf_c0LFzh0), [часть 4](https://youtu.be/8Cf_c0LFzh0).
 
+[Лекция 2022.02.02](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20210125_image_processing.ipynb) - обработка изображений.
 
 
