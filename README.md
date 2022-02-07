@@ -17,5 +17,5 @@
 [Лекция 2022.02.02](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20210125_image_processing.ipynb) - обработка изображений.
 Видео с лекции - [часть 1](https://youtu.be/to-ADXI30N8), [часть 2](https://youtu.be/Y1B5C84F9sI).
 
-
+[Лекция 2022.02.08](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220208_clustering.ipynb) - кластеризация  
 
