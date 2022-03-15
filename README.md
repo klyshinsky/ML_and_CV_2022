@@ -21,3 +21,6 @@
 [Видео с лекции](https://youtu.be/VEK_8XUZ39w).
 
 [Лекция 2022.03.01](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220301_OpenCV.ipynb) - обработка видео при помощи OpenCV.  
+[Видео с лекции](https://youtu.be/yLFwu3pYNnI).
+
+[Лекция 2022.03.15](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220315_Classification.ipynb) - классификация (метод k ближайших соседей, линейная и логистическая регрессия), валидация и кроссвалидация.  
