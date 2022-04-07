@@ -24,3 +24,6 @@
 [Видео с лекции](https://youtu.be/yLFwu3pYNnI).
 
 [Лекция 2022.03.15](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220315_Classification.ipynb) - классификация (метод k ближайших соседей, линейная и логистическая регрессия), валидация и кроссвалидация.  
+[Видео с лекции](https://www.youtube.com/watch?v=BUvXAd2dYbo).
+
+[Лекция 2022.04.08](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220408_DecisionTrees.ipynb) - классификация при помощи методов, основанных на применении деревьев.
