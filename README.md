@@ -27,3 +27,10 @@
 [Видео с лекции](https://www.youtube.com/watch?v=BUvXAd2dYbo).
 
 [Лекция 2022.04.08](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220408_DecisionTrees.ipynb) - классификация при помощи методов, основанных на применении деревьев.
+
+[Лекция 2022.04.15](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220415_Ensamble.ipynb) - Методы ансемблирования.
+
+[Лекция 2022.04.29](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220422_3_requests.ipynb) - Использование библиотеки requests для загрузки информации из сети интернет.
+
+[Лекция 2022.04.29](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220422_text_processing.ipynb) - Методы обработки текстов.
+
