@@ -34,3 +34,6 @@
 
 [Лекция 2022.04.29](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220422_text_processing.ipynb) - Методы обработки текстов.
 
+[Лекция 2022.05.13](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220429-W2V.ipynb) - Векторизация текстов при помощи Word2Vec.
+
+[Лекция 2022.05.20](https://github.com/klyshinsky/ML_and_CV_2022/blob/main/Lecture_20220520_Neural_Networks_Dense_CNN_RNN.ipynb) - Плотные, сверточные и рекуррентные нейронные сети.
